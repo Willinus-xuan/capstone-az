@@ -1,6 +1,6 @@
-# Capstone Project with AstraZeneca 
+# Capstone Project with AstraZeneca ![](az.png =100x20)
 
-## Project Title: Graph representation learning for patient classification ![](az.png)
+## Project Title: Graph representation learning for patient classification 
 
 ## Background: 
 Complex diseases are chronic conditions involving arrays of dysregulated biological reactions and often influenced by additional factors such as genetics, lifestyle, and environmental exposures. The heterogeneous nature of complex diseases presents a challenge to develop one-size-fit-all treatments and calls for personalized alternatives. To dissect the molecular mechanisms underlining the multi-facet manifestation of complex diseases, scientists have invested heavily to analyze gene expression patterns among different patient populations, leading to the discoveries of many population-specific gene sets or signatures. 
