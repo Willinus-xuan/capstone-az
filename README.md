@@ -1,6 +1,6 @@
 # Capstone Project with AstraZeneca 
 
-## Project Title: Project Title: Graph representation learning for patient classification
+## Project Title: Graph representation learning for patient classification [](../az.png)
 
 ## Background: 
 Complex diseases are chronic conditions involving arrays of dysregulated biological reactions and often influenced by additional factors such as genetics, lifestyle, and environmental exposures. The heterogeneous nature of complex diseases presents a challenge to develop one-size-fit-all treatments and calls for personalized alternatives. To dissect the molecular mechanisms underlining the multi-facet manifestation of complex diseases, scientists have invested heavily to analyze gene expression patterns among different patient populations, leading to the discoveries of many population-specific gene sets or signatures. 
@@ -9,7 +9,9 @@ However, enriched gene sets analysis alone cannot explain causal relations. In a
 
 
 ## Project Scope: 
-Build graph models for inflammatory bowel diseases (IBD) using public knowledge graphs and transcriptomics data from patient cohorts with treatment history. Perform graph representation learning to classify responders and non-responders. Stretch goal: Identify driving gene and pathway features to derive new insights. Transfer learning to develop new classifier on related treatments.
+1. Build graph models for inflammatory bowel diseases (IBD) using public knowledge graphs and transcriptomics data from patient cohorts with treatment history. 
+2. Perform graph representation learning to classify responders and non-responders. 
+3. Stretch goal: Identify driving gene and pathway features to derive new insights. Transfer learning to develop new classifier on related treatments.
 
 ## Research Questions
 - 1. Why do some patients respond to one drug but the others don't?
@@ -21,4 +23,4 @@ differentiate the responders and the non-responders?
 - 2. Public biomedical knowledge graphs, e.g., PrimeKB
 
 ## Research Findings
-The research findings are documented in a research-oriented paper called "capstone_paper" below. Also, I made a poster to better present the research findings. 
+The research findings are documented in a research-oriented paper below. Additionally, I made a poster to better present the research findings. 
