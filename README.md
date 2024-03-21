@@ -1,4 +1,5 @@
-# Capstone Project with AstraZeneca ![](az.png =100x20)
+# Capstone Project with AstraZeneca
+<img src="../az.png" width="200">
 
 ## Project Title: Graph representation learning for patient classification 
 
